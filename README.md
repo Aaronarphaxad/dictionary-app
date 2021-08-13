@@ -5,8 +5,8 @@ This is a multi-language dictionary app used to search for words in various lang
 #### Usage
 To use the app, register to get access to the save word feature. Choose a language and enter a word in the corresponding language to get the meaning of words in that language. If the searched word is not available in the dictionary API database, it would display a message saying the word is not available.
 
-YouTube link: https://youtu.be/TjQef6sSHng
-Live preview: 
+- YouTube link: https://youtu.be/TjQef6sSHng
+- Live preview: https://multidictionary.herokuapp.com/
 
 
 ## Distinctiveness
